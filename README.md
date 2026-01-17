@@ -1,1 +1,1 @@
-# pbs_launcher
+# PurpleBandLauncher
